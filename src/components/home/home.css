@@ -1,0 +1,27 @@
+.logo{
+    margin-left: 20px;
+}
+.toggle{
+    margin-right: 20px;
+}
+.data-table{
+    margin-top: 80px;
+}
+.scroll{
+    overflow-x: auto;
+}
+.titulo{
+    color: #000000;
+    font-weight: bold;
+}
+.fondo {
+    background-image: url(../../assets/img/fondoPalta.jpg);
+    position: absolute;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    width: 100%;
+    z-index: -1;
+    height: 86vh;
+}
